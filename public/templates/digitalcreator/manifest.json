@@ -1,12 +1,45 @@
 {
   "id": "digitalcreator",
-  "name": "digitalcreator",
+  "name": "Digital Creator",
   "version": "1.0.0",
   "author": "Builder Pro",
   "description": "Tema link bio bersih dengan aksen teal.",
   "category": "linkbio",
-  "tags": ["clean", "education"],
+
+  "tags": [
+    "clean",
+    "education",
+    "creator",
+    "affiliate",
+    "mobile"
+  ],
+
   "entry": "template.html",
   "schema": "schema.json",
-  "preview": "https://i.ibb.co/vx0gbSwC/ai-generated-image-4.webp"
+
+  "preview": "https://i.ibb.co/vx0gbSwC/ai-generated-image-4.webp",
+
+  "updatedAt": "2026-05-22",
+
+  "features": [
+    "mobile-first",
+    "social-links",
+    "video-section",
+    "cta-buttons"
+  ],
+
+  "theme": {
+    "primary": "#14b8a6",
+    "background": "#ffffff",
+    "text": "#111111"
+  },
+
+  "supported": {
+    "import": [
+      "lynk.id"
+    ],
+    "export": [
+      "blogger"
+    ]
+  }
 }
