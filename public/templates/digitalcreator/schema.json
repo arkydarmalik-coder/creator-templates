@@ -1,14 +1,37 @@
 {
-  "fields": [
-    {
-      "id": "name",
-      "type": "text",
-      "label": "Creator Name"
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Chattutor Template",
+  "type": "object",
+  "properties": {
+    "profile": {
+      "type": "object",
+      "properties": {
+        "avatar": { "type": "string", "format": "uri", "title": "URL Avatar" },
+        "name": { "type": "string", "title": "Nama" },
+        "tagline": { "type": "string", "title": "Tagline" }
+      },
+      "required": ["name"]
     },
-    {
-      "id": "bio",
-      "type": "textarea",
-      "label": "Bio"
+    "links": {
+      "type": "array",
+      "title": "Daftar Link",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "icon": { "type": "string", "title": "Class Font Awesome", "default": "fa-link" }
+        },
+        "required": ["label", "url"]
+      }
+    },
+    "theme": {
+      "type": "object",
+      "properties": {
+        "background": { "type": "string", "default": "#f8fafc" },
+        "accent": { "type": "string", "default": "#0D9488" }
+      }
     }
-  ]
+  },
+  "required": ["profile", "links"]
 }
