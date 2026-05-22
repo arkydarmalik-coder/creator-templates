@@ -1,8 +1,11 @@
 {
+  "version": 1,
   "templates": [
     {
-      "id": "digitalcreator",
-      "path": "digitalcreator"
+      "id": "digital creator",
+      "path": "/templates/digital creator",
+      "name": "digital creato",
+      "category": "linkbio",
+      "tags": ["clean", "education"],
+      "preview": "/templates/chattutor/preview.webp"
     }
-  ]
-}
