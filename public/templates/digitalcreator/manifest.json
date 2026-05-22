@@ -1,9 +1,12 @@
-
 {
-  "id": "digitalcreator",
-  "name": "digitalcreator",
+  "id": "digital creator",
+  "name": "digital creator",
   "version": "1.0.0",
-  "author": "linksheet",
-  "tags": ["creator", "affiliate"],
-  "description": "Creator landing page"
+  "author": "Builder Pro",
+  "description": "Tema link bio bersih dengan aksen teal.",
+  "category": "linkbio",
+  "tags": ["clean", "education"],
+  "entry": "template.html",
+  "schema": "schema.json",
+  "preview": "preview.webp"
 }
