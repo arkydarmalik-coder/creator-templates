@@ -3,9 +3,9 @@
   "templates": [
     {
       "id": "digital creator",
-      "path": "/templates/digital creator",
+      "path": "/templates/digitalcreator",
       "name": "digital creato",
       "category": "linkbio",
       "tags": ["clean", "education"],
-      "preview": "/templates/chattutor/preview.webp"
+      "preview": "/templates/digitalcreator/preview.webp"
     }
