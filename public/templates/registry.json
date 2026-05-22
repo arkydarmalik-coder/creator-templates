@@ -2,33 +2,10 @@
   "version": 1,
   "templates": [
     {
-      "id": "digital-creator",
-      "version": "1.0.0",
-
+      "id": "digitalcreator",
       "path": "/templates/digitalcreator",
-
       "name": "Digital Creator",
-
       "category": "linkbio",
-
-      "tags": [
-        "clean",
-        "education",
-        "creator",
-        "affiliate",
-        "mobile"
-      ],
-
-      "preview": "https://i.ibb.co/vx0gbSwC/ai-generated-image-4.webp",
-
-      "updatedAt": "2026-05-22",
-
-      "features": [
-        "mobile-first",
-        "social-links",
-        "video-section",
-        "cta-buttons"
-      ]
+      "tags": ["clean", "education", "creator"],
+      "preview": "https://i.ibb.co/vx0gbSwC/ai-generated-image-4.webp"
     }
-  ]
-}
