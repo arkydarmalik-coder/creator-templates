@@ -1,6 +1,6 @@
 {
-  "id": "digital creator",
-  "name": "digital creator",
+  "id": "digitalcreator",
+  "name": "digitalcreator",
   "version": "1.0.0",
   "author": "Builder Pro",
   "description": "Tema link bio bersih dengan aksen teal.",
@@ -8,5 +8,5 @@
   "tags": ["clean", "education"],
   "entry": "template.html",
   "schema": "schema.json",
-  "preview": "preview.webp"
+  "preview": "https://i.ibb.co/vx0gbSwC/ai-generated-image-4.webp"
 }
