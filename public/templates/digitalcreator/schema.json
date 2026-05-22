@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "id": "name",
+      "type": "text",
+      "label": "Creator Name"
+    },
+    {
+      "id": "bio",
+      "type": "textarea",
+      "label": "Bio"
+    }
+  ]
+}
