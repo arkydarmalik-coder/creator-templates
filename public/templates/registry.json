@@ -3,11 +3,32 @@
   "templates": [
     {
       "id": "digital-creator",
+      "version": "1.0.0",
+
       "path": "/templates/digitalcreator",
-      "name": "digital creato",
+
+      "name": "Digital Creator",
+
       "category": "linkbio",
-      "tags": ["clean", "education"],
-      "preview": "/templates/digitalcreator/preview.webp"
+
+      "tags": [
+        "clean",
+        "education",
+        "creator",
+        "affiliate",
+        "mobile"
+      ],
+
+      "preview": "https://i.ibb.co/vx0gbSwC/ai-generated-image-4.webp",
+
+      "updatedAt": "2026-05-22",
+
+      "features": [
+        "mobile-first",
+        "social-links",
+        "video-section",
+        "cta-buttons"
+      ]
     }
   ]
 }
